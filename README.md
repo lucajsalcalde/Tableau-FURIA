@@ -1,4 +1,4 @@
-# Tableau-FURIA
+# Tableau FURIA
 Dashboards desenvolvidos para complementar o projeto "FURIA Estudo de caso".
 [
 ![Resultados2022x2020](https://user-images.githubusercontent.com/44827249/162538000-5697a937-f7c1-445d-98e7-71dbdf59af09.png)
